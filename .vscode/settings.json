@@ -27,8 +27,8 @@
     "typescriptreact": "jsx"
   },
   "workbench.colorCustomizations": {
-    "activityBar.background": "#61DAFB",
-    "titleBar.activeBackground": "#61DAFB",
+    "activityBar.background": "#083b49",
+    "titleBar.activeBackground": "#083b49",
     "titleBar.activeForeground": "#FEFBFC"
   },
   "tailwindCSS.includeLanguages": {
