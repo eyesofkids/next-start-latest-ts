@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "austenc.tailwind-docs",
-    "blanu.vscode-styled-jsx",
     "bradlc.vscode-tailwindcss",
     "christian-kohler.path-intellisense",
     "clinyong.vscode-css-modules",
@@ -9,11 +8,8 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "formulahendry.auto-complete-tag",
-    "mgmcdermott.vscode-language-babel",
     "ms-ceintl.vscode-language-pack-zh-hant",
     "ms-vscode.vscode-css-peek",
-    "ms-vscode.vscode-json",
-    "ms-vscode.vscode-typescript-next",
     "riazxrazor.html-to-jsx",
     "usernamehw.errorlens",
     "vscode-icons-team.vscode-icons",
