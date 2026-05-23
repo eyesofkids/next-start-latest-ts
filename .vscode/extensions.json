@@ -13,6 +13,7 @@
     "riazxrazor.html-to-jsx",
     "usernamehw.errorlens",
     "vscode-icons-team.vscode-icons",
+    "ms-ceintl.vscode-language-pack-zh-hant"
   ],
   "unwantedRecommendations": ["ms-vscode.vscode-typescript-tslint-plugin"]
 }
