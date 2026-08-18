@@ -9,11 +9,10 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-complete-tag",
     "ms-ceintl.vscode-language-pack-zh-hant",
-    "ms-vscode.vscode-css-peek",
+    "pranaygp.vscode-css-peek",
     "riazxrazor.html-to-jsx",
     "usernamehw.errorlens",
-    "vscode-icons-team.vscode-icons",
-    "ms-ceintl.vscode-language-pack-zh-hant"
+    "vscode-icons-team.vscode-icons"
   ],
   "unwantedRecommendations": ["ms-vscode.vscode-typescript-tslint-plugin"]
 }
